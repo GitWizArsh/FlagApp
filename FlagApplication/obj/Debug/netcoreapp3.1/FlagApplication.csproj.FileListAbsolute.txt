@@ -1,0 +1,17 @@
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\bin\Debug\netcoreapp3.1\FlagApplication.exe
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\bin\Debug\netcoreapp3.1\FlagApplication.deps.json
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\bin\Debug\netcoreapp3.1\FlagApplication.runtimeconfig.json
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\bin\Debug\netcoreapp3.1\FlagApplication.runtimeconfig.dev.json
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\bin\Debug\netcoreapp3.1\FlagApplication.dll
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\bin\Debug\netcoreapp3.1\FlagApplication.pdb
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.csproj.AssemblyReference.cache
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.Form1.resources
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.Properties.Resources.resources
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.csproj.GenerateResource.cache
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.AssemblyInfoInputs.cache
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.AssemblyInfo.cs
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.csproj.CoreCompileInputs.cache
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.dll
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.pdb
+C:\Users\asl11\source\repos\FlagApplication\FlagApplication\obj\Debug\netcoreapp3.1\FlagApplication.genruntimeconfig.cache

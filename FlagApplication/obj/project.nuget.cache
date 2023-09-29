@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9S6aYbFjFYo6XKgeiPns5fnfiRH6Jl6ebAOmve09d9kqAA2wsoNLd/3qjTF6WONoHdJCIzz3fhU0tvxyDlCU1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asl11\\source\\repos\\FlagApplication\\FlagApplication\\FlagApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asl11\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
